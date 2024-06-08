@@ -1,0 +1,120 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\s\materialicons\v142\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://luckyjet.casinohack.site/
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\index.htm
+Content Type: text/html
+
+Uri: https://luckyjet.casinohack.site/manifest.json
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\manifest.json
+Content Type: application/json
+
+Uri: https://luckyjet.casinohack.site/prop.svg
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\prop.svg
+Content Type: image/svg+xml
+
+Uri: https://luckyjet.casinohack.site/static/css/main.906a19d0.css
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\css\main.906a19d0.css
+Content Type: text/css
+
+Uri: https://luckyjet.casinohack.site/static/js/main.c0377705.js
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\js\main.c0377705.js
+Content Type: application/javascript
+
+Uri: https://luckyjet.casinohack.site/static/media/arrow.0513861d0537e3052940.svg
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\arrow.0513861d0537e3052940.svg
+Content Type: image/svg+xml
+
+Uri: https://luckyjet.casinohack.site/static/media/bg.a9b4f95888510306d37a.jpg
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\bg.a9b4f95888510306d37a.jpg
+Content Type: image/jpeg
+
+Uri: https://luckyjet.casinohack.site/static/media/Bowler.43b0b35a92ee414fea0a.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\Bowler.43b0b35a92ee414fea0a.ttf
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/copy.5fdd7abe09113eb33286.svg
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\copy.5fdd7abe09113eb33286.svg
+Content Type: image/svg+xml
+
+Uri: https://luckyjet.casinohack.site/static/media/GothamPro-Bold.b9c5d1404c9e2ed632e3.woff2
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\GothamPro-Bold.b9c5d1404c9e2ed632e3.woff2
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/GothamPro-Light.a2a52b37266bc749d00c.woff2
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\GothamPro-Light.a2a52b37266bc749d00c.woff2
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/GothamPro-Medium.738777ea88f45fff7fcc.woff2
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\GothamPro-Medium.738777ea88f45fff7fcc.woff2
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/gothampro_bold.764ba13de4409a990823.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\gothampro_bold.764ba13de4409a990823.ttf
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\gothampro_light.dfbba8c980f43420d2d1.ttf
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\gothampro_medium.dca4b95d345c2abd8661.ttf
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/gothampro_regular.460892a76436eac7ff56.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\gothampro_regular.460892a76436eac7ff56.ttf
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/Gotham_Pro_Black.889cb46ae48359555229.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\Gotham_Pro_Black.889cb46ae48359555229.ttf
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/money-with-wings_1f4b8.bb5b4a609885e7bd93e3.png
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\money-with-wings_1f4b8.bb5b4a609885e7bd93e3.png
+Content Type: image/png
+
+Uri: https://luckyjet.casinohack.site/static/media/ofont.ru_Arial.1dae915d4a0921661886.ttf
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\ofont.ru_Arial.1dae915d4a0921661886.ttf
+Content Type: application/octet-stream
+
+Uri: https://luckyjet.casinohack.site/static/media/openai-seeklogo.426893d4f12750d28704.svg
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\openai-seeklogo.426893d4f12750d28704.svg
+Content Type: image/svg+xml
+
+Uri: https://luckyjet.casinohack.site/static/media/sprite.07d76ebf06206758e8fb.webp
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\static\media\sprite.07d76ebf06206758e8fb.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/js/telegram-web-app.js
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\js\telegram-web-app.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-EMXWPCEFYW
+File Name: C:\Users\Артем Галеев\Desktop\luckyjet.casinohack.site\gtag\js
+Content Type: application/javascript
+
